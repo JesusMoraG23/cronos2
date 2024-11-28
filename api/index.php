@@ -23,7 +23,7 @@ if (isset($_POST['logout'])) {
 <html lang="en">
 <head>
     <title>Cronos</title>
-    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="index-style.css">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/x-icon" href="/imagenes/LogoRelojeria.png">
