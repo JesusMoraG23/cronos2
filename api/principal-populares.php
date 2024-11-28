@@ -72,7 +72,7 @@
 		<div id="popular-watches" class="container-products"></div>
 	</div>
     
-    <script src="accesorios.js"></script>
+    <script src="accesorios-script.js"></script>
 </body>
 </html>
 

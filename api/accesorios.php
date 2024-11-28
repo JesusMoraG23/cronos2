@@ -8,7 +8,7 @@
 		/>
 		<title>Accesorios</title>
 		<link rel="icon" type="image/x-icon" href="imagenes/LogoRelojeria.png">
-		<link rel="stylesheet" href="accesorios.css" />
+		<link rel="stylesheet" href="accesorios-style.css" />
 		<link
 			rel="stylesheet"
 			href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
@@ -264,6 +264,6 @@
 			</div>
 		</div>
 
-		<script src="accesorios.js"></script>
+		<script src="accesorios-script.js"></script>
 	</body>
 </html>
